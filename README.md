@@ -1,16 +1,15 @@
 # Alarme-frigo
 Le project qui detecte la porte ouvert de congelateur.
-#Video
 
+## Video
 [![video](montagefrigo.jpg)](https://youtu.be/xi4wQ2jgLfw)
 
-# Composantes
-
+# Composants
 * Capteur de luminosité
 * Buzzer
 * Arduino UNO
 * Bread Bord
 
-## SCHEMA
+## Schema
 ![](schemaALARME.png)
 
